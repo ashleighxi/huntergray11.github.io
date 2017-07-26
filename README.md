@@ -1,2 +1,2 @@
 ### My GitHub Profile 
-[![GitHub](https://image.flaticon.com/icons/png/512/25/25231.png)](https://github.com/huntergray11)
+[![GitHub](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png)](https://github.com/huntergray11)
